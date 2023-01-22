@@ -9,6 +9,4 @@ After looping through all of the array elements, it calculates the average by su
 
 Finally it prints out a string containing all of the analysis information to console log. 
 */
-[Screenshot-2023-01-16-at-14-22-59.png][FinanceApp]
-
-[FinanceApp]: https://postimg.cc/F7XxC9rt
+[Screenshot-2023-01-16-at-14-22-59.png](https://postimg.cc/F7XxC9rt)
